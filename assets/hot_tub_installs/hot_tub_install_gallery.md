@@ -10,7 +10,7 @@
 ## Uninstallation Process
 
 ### Before Removal  
-https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/hot_tub_installs/1.%20panel_exposed_before_removal.jpg?raw=true
+![Hot tub access panel exposed pre-removal](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/hot_tub_installs/1.%20panel_exposed_before_removal.jpg?raw=true)
 
 We began by opening the access panel and logging all board and wiring connections. Cables were labeled and photographed before disconnection.
 
