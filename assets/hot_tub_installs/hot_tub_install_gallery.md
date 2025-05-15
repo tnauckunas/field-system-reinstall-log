@@ -2,7 +2,7 @@
 **Technician:** Tomas Nauckunas  
 **Location(s):** Field relocation + client installation sites  
 **Scope:** Full uninstall → relocation → reinstallation with QA validation  
-**Photoset:** 7 curated job photos  
+**Photoset:** 6 curated job photos  
 **Period:** 2022–2025
 
 ---
