@@ -32,14 +32,14 @@ Piano was wrapped and on the piano board, braced, and positioned upright for sta
 ## Reinstallation & QA
 
 ### Grand Piano Reinstalled  
-![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4.%20grand_post_reinstal.jpg?raw=true)
+![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4_grand_staged_for_reinstall.jpg?raw=true)
 Pedals reconnected, leg base leveled, and hammer return tested on 7 random keys. Pedal felt was trimmed for clearance on sustain lift.
 
 ---
 
 ### Upright Final Check  
 ![Upright piano stabilized, pre-tuning](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/5.%20grand_pre_tuning.jpg?raw=true)
-Tested key return on center octave, damper lift confirmed on all 3 pedals, backboard alignment locked into position.
+Pedals reconnected, leg base leveled, and hammer return tested on 7 random keys. Pedal felt was trimmed for clearance on sustain lift. Tested key return on center octave, damper lift confirmed on all 3 pedals, backboard alignment locked into position. 
 
 ---
 
