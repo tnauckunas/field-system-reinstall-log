@@ -42,7 +42,7 @@ The grand piano has been delivered and set into its final location. At this stag
 ### Upright Final Check  
 ![Upright piano stabilized, pre-tuning](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/5.%20grand_pre_tuning.jpg?raw=true)
 
-Pedals reconnected, leg base leveled, and hammer return tested on 7 random keys. Pedal felt was trimmed for clearance on sustain lift. Tested key return on center octave, damper lift confirmed on all 3 pedals, backboard alignment locked into position. 
+With the piano fully assembled and stabilized in its final position, we began the post-install testing process. Pedals were connected and functionally verified, leg base leveled, and hammer return tested on seven random keys. Sustain pedal clearance was adjusted, and we confirmed damper lift on all three pedals. Key return on the center octave was smooth, and the backboard was locked into final position. Unit was cleared for post-install tuning.
 
 ---
 
