@@ -9,7 +9,7 @@
 ## 🔍 Before Removals
 
 ### 🎹 Grand Piano Inspection  
-![Grand piano interior open – pre-removal](![image](https://github.com/user-attachments/assets/9c8b90b1-6bb2-4e56-8724-cb49bd5efc30)
+![Grand piano interior open – pre-removal](https://github.com/user-attachments/assets/9c8b90b1-6bb2-4e56-8724-cb49bd5efc30)
 
 Checked keybed, hammer action, and pedal condition before wrapping. Strings were stable; no felt drag or hammer warp.
 
