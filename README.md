@@ -7,7 +7,7 @@
 
 ---
 
-## 📦 Overview
+## Overview
 
 This repository documents my real-world work handling the disassembly, transport, reinstallation, and verification of high-value systems across multiple cities.
 
@@ -15,7 +15,7 @@ The systems I handled weren’t just relocated — they were **powered down, dis
 
 ---
 
-## 🛠 Systems Covered
+## Systems Covered
 
 - 💧 Smart Hot Tubs (electrical control boards, sensors, mobile app integration)  
 - 🎹 Electric Pianos (keybed calibration, ribbon cable alignment, audio output test)  
@@ -24,7 +24,7 @@ The systems I handled weren’t just relocated — they were **powered down, dis
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 | Folder | Contents |
 |--------|----------|
@@ -37,7 +37,7 @@ The systems I handled weren’t just relocated — they were **powered down, dis
 
 ---
 
-## 🔧 Sample QA Logs
+## Sample QA Logs
 
 - `hot_tub_uninstall_checklist.md`  
 - `hot_tub_reinstall_validation.md`  
@@ -51,7 +51,7 @@ The systems I handled weren’t just relocated — they were **powered down, dis
 
 ---
 
-## 📸 Visual Proof
+## Visual Proof
 
 All installs shown in this repo (hot tubs, pianos) were performed personally.  
 See `/assets/` folders for live transport shots, including:
@@ -62,7 +62,7 @@ See `/assets/` folders for live transport shots, including:
 
 ---
 
-## 🔁 Core Technician Processes
+## Core Technician Processes
 
 - Labeling and mapping of electrical cables before removal  
 - Voltage confirmation and continuity testing pre/post reinstall  
@@ -72,7 +72,7 @@ See `/assets/` folders for live transport shots, including:
 
 ---
 
-## 🧠 Field QA Philosophy
+## Field QA Philosophy
 
 > "QA doesn’t start at install — it starts at disconnect. If you don’t track it from teardown to test, you’re not guaranteeing anything.”
 
@@ -80,4 +80,4 @@ I’ve learned to treat every system as if I were rebuilding it for someone else
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
