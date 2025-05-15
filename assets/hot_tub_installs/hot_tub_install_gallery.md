@@ -10,7 +10,7 @@
 ## 🔧 Uninstallation Process
 
 ### 🧱 Before Removal  
-![Hot tub access panel exposed pre-removal](../assets/hot_tub_installs/panel_exposed_before_removal.jpg)
+1. panel_exposed_before_removal.jpg
 
 We began by opening the access panel and logging all board and wiring connections. Cables were labeled and photographed before disconnection.
 
