@@ -7,10 +7,10 @@
 
 ## Before Removals
 
-### Grand Piano Inspection  
-![Grand piano interior open – pre-removal](https://github.com/user-attachments/assets/9c8b90b1-6bb2-4e56-8724-cb49bd5efc30)
+### Electric Grand Piano Inspection  
+![Grand piano interior open – pre-removal](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/1.%20grand_electric_inspection_pre_move.jpg?raw=true)
 
-Checked keybed, hammer action, and pedal condition before wrapping. Strings were stable; no felt drag or hammer warp.
+This was an electric grand piano inspected before disassembly and transport. I checked keybed, hammer action, and pedal interface for responsiveness. Power was tested to confirm full functionality. All electrical inputs were safely unplugged and cable ports sealed before wrapping. This step was crucial to verify the system was damage-free and fully operational prior to move and protecting both client expectations and company liability.
 
 ---
 
