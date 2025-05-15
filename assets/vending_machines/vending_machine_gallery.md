@@ -35,7 +35,7 @@ Unboxed, mounted, and loaded the internal thermal printer. Verified that paper f
 ### ⚠️ Unexpected System Error  
 ![Startup screen showing runtime exception crash](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/4.%20boot_error_runtime_exception.jpg?raw=true)
 
-Upon powering on, the booth displayed a .NET runtime crash and failed to load UI. Ran a full hardware check using boot diagnostics menu as Online manuals were inaccessible. I directly contacted the manufacturer and followed real-time guidance for registry file repair and reboot sequencing.
+Upon powering on, the booth displayed a .NET runtime crash and failed to load UI. Ran a full hardware check using boot diagnostics menu as online manuals were inaccessible. I directly contacted the manufacturer and followed real-time guidance for registry file repair and reboot sequencing.
 
 ---
 
