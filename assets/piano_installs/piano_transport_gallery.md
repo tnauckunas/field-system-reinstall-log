@@ -25,7 +25,7 @@ Inspected damper mechanism, pedal rod clearance, and casing for loose panels or 
 ### 📦 Mid-Transit Handling  
 ![Upright piano staged mid-relocation](https://github.com/user-attachments/assets/8926d9c2-658b-43c8-a6ef-17d55dd1e976)
 
-Piano was wrapped, braced, and positioned upright for stair lift navigation. Balance and tilt kept to center mass to protect pedal interface.
+Piano was wrapped and on the piano board, braced, and positioned upright for stair lift navigation. Balance and tilt kept to center mass to protect pedal interface.
 
 ---
 
