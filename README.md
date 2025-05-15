@@ -17,10 +17,10 @@ The systems I handled weren’t just relocated — they were **powered down, dis
 
 ## Systems Covered
 
-- 💧 Smart Hot Tubs (electrical control boards, sensors, mobile app integration)  
-- 🎹 Electric Pianos (keybed calibration, ribbon cable alignment, audio output test)  
-- 🥤 Vending Machines (cooling units, sensors, UI, payment systems)  
-- 🎼 Acoustic Pianos (mechanical inspection, key & pedal alignment, full tuning)
+- Smart Hot Tubs (electrical control boards, sensors, mobile app integration)  
+- Electric Pianos (keybed calibration, ribbon cable alignment, audio output test)  
+- Vending Machines (cooling units, sensors, UI, payment systems)  
+- Acoustic Pianos (mechanical inspection, key & pedal alignment, full tuning)
 
 ---
 
