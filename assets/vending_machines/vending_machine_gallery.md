@@ -67,7 +67,7 @@ This was a separate job where I handled the relocation and setup of a commercial
 
 Commercial machines like these aren’t “plug-and-play.”  
 They’re multi-system, failure-prone, and frequently undocumented.  
-I treat every install like it's my name on the invoice — because it is.
+I treat every install like it's my name on the invoice because it is.
 
 ---
 
