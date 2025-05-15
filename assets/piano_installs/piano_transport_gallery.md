@@ -27,6 +27,9 @@ This was a rare antique player piano requiring careful inspection before disasse
 ![Upright piano staged mid-relocation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/3.%20Upright%20grand%20braced%20and%20upright%20%E2%80%93%20900%20lb%20lift.jpg?raw=true)
 
 This 900 lb upright grand was moved with a custom 2-person strategy I developed on-site. I rigged two high-mounted straps to act as anchor points. While I lifted the piano a step at a time using legs and back for force, my partner ascended and re-tensioned the straps at each interval using a ratchet system. This offloaded pressure and created resting phases to prevent slip or fatigue. It took roughly 1 hour to complete, maintaining full control over the center of gravity throughout.
+
+
+This 900 lb upright grand was moved with a custom 2-person strategy I developed on-site. I rigged two high-mounted straps to act as anchor points. While I lifted the piano a step at a time using legs and back for force, my partner ascended and re-tensioned the straps at each interval using a ratchet system. This offloaded pressure and created resting phases to prevent slip or fatigue. It took roughly 1 hour to complete, maintaining full control over the center of gravity throughout.
 ---
 ## Grand Piano – Trailer Loading Strategy (900 lbs)  
 
