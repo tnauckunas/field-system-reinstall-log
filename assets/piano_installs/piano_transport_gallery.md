@@ -33,7 +33,7 @@ This 900 lb upright grand was moved with a custom 2-person strategy I developed 
 
 ![Grand piano trailer loading with custom lift-strapping](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/3.%20grand_trailer_loading_strategy.jpg?raw=true)  
 
-This 900 lb grand piano was unstable on the ramp and at high risk of tilting backward — endangering my teammate and the piano. I developed a workaround using a top wrap-around strap for upward control, and anchored a yellow cross strap to hold the piano downward as we pushed. This allowed us to move the load up the ramp while preventing backward lean or rebound. A 2-man job completed with zero risk, using adaptive load physics and anchored strap sequencing.
+This 900 lb grand piano was unstable on the ramp and at high risk of tilting backward and endangering my teammate and the piano. I developed a workaround using a top wrap-around strap for upward control, and anchored a yellow cross strap to hold the piano downward as we pushed. This allowed us to move the load up the ramp while preventing backward lean or rebound. A 2-man job completed with zero risk, using adaptive load physics and anchored strap sequencing.
 
 ---
 
