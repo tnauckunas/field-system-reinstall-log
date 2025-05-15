@@ -1,4 +1,4 @@
-# Piano Transport & QA Gallery  
+![image](https://github.com/user-attachments/assets/21f3c55d-842e-4b5b-9f07-7547d32eef0e)![image](https://github.com/user-attachments/assets/76e5cc05-7503-48e0-8cea-8f2f8a5bad95)# Piano Transport & QA Gallery  
 **Technician:** Tomas Nauckunas  
 **Scope:** Upright and Grand Piano relocation, protection, reassembly, and QA  
 **Photoset:** 6 curated photos (split between both types)  
@@ -9,7 +9,8 @@
 ## 🔍 Before Removals
 
 ### 🎹 Grand Piano Inspection  
-![Grand piano interior open – pre-removal](../assets/piano_installs/1_panel_open_grand.jpg)  
+![Grand piano interior open – pre-removal](![image](https://github.com/user-attachments/assets/9c8b90b1-6bb2-4e56-8724-cb49bd5efc30)
+
 Checked keybed, hammer action, and pedal condition before wrapping. Strings were stable; no felt drag or hammer warp.
 
 ---
