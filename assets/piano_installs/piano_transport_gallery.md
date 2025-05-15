@@ -16,16 +16,17 @@ Checked keybed, hammer action, and pedal condition before wrapping. Strings were
 
 ### Upright Piano Inspection  
 ![Upright piano checked before transport](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/2.%20upright_ready_for_wrap.jpg?raw=true) 
+
 Inspected damper mechanism, pedal rod clearance, and casing for loose panels or cracked veneer before move.
 
 ---
 
 ## Relocation Phase
 
-### Mid-Transit Handling  
-![Upright piano staged mid-relocation](https://github.com/user-attachments/assets/8926d9c2-658b-43c8-a6ef-17d55dd1e976)
+### Upright Grand – Manual Stair Lift Strategy 
+![Upright piano staged mid-relocation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/3.%20Upright%20grand%20braced%20and%20upright%20%E2%80%93%20900%20lb%20lift.jpg?raw=true)
 
-Piano was wrapped and on the piano board, braced, and positioned upright for stair lift navigation. Balance and tilt kept to center mass to protect pedal interface.
+This 900 lb upright grand was moved with a custom 2-person strategy I developed on-site. I rigged two high-mounted straps to act as anchor points. While I lifted the piano a step at a time using legs and back for force, my partner ascended and re-tensioned the straps at each interval using a ratchet system. This offloaded pressure and created resting phases to prevent slip or fatigue. It took roughly 1 hour to complete, maintaining full control over the center of gravity throughout.
 
 ---
 
@@ -33,12 +34,14 @@ Piano was wrapped and on the piano board, braced, and positioned upright for sta
 
 ### Pre-Assembly Setup
 ![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4.%20grand_ready_for_assembly.jpg?raw=true)
+
 The grand piano has been delivered and set into its final location. At this stage, two outer legs are ready to be attached while the piano is carefully lowered. The third leg will be attached and finally the pedal lyre will be mounted last to complete structural assembly before testing.
 
 ---
 
 ### Upright Final Check  
 ![Upright piano stabilized, pre-tuning](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/5.%20grand_pre_tuning.jpg?raw=true)
+
 Pedals reconnected, leg base leveled, and hammer return tested on 7 random keys. Pedal felt was trimmed for clearance on sustain lift. Tested key return on center octave, damper lift confirmed on all 3 pedals, backboard alignment locked into position. 
 
 ---
