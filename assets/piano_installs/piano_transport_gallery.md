@@ -45,6 +45,7 @@ Tested key return on center octave, damper lift confirmed on all 3 pedals, backb
 
 ### Pedal Rod Final QA  
 ![Close-up of upright pedal rod fitment](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/6.%20Pedal_rod_clearanc.jpg?raw=true)
+
 Adjusted rod length and node clearance using rotation tool. Verified full depression with no bounce-back or slip.
 
 ---
