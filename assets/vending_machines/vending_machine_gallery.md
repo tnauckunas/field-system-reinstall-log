@@ -23,18 +23,18 @@ Prior to power-up, confirmed all internal USB, power, and sensor cables were pre
 
 ---
 
-### ⚠️ Unexpected System Error  
-![Startup screen showing runtime exception crash](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/4.%20boot_error_runtime_exception.jpg?raw=true)
-
-Upon powering on, the booth displayed a .NET runtime crash and failed to load UI. Online manuals were inaccessible. I directly contacted the manufacturer and followed real-time guidance for registry file repair and reboot sequencing.
-
----
-
 ## 🛠 Hardware Validation
 
 ### 🖨️ Printer Assembly  
 ![Photo printer mechanism inside booth](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/3.%20printer_mechanism_loaded.jpg?raw=true)
 Unboxed, mounted, and loaded the internal thermal printer. Verified that paper feeds correctly and ribbon was aligned. Test print executed later to validate full photo flow.
+
+---
+
+### ⚠️ Unexpected System Error  
+![Startup screen showing runtime exception crash](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/4.%20boot_error_runtime_exception.jpg?raw=true)
+
+Upon powering on, the booth displayed a .NET runtime crash and failed to load UI. Online manuals were inaccessible. I directly contacted the manufacturer and followed real-time guidance for registry file repair and reboot sequencing.
 
 ---
 
