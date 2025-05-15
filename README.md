@@ -11,7 +11,7 @@
 
 This repository documents my real-world work handling the disassembly, transport, reinstallation, and verification of high-value systems across multiple cities.
 
-The systems I handled weren’t just relocated — they were **powered down, disassembled, debugged, and brought back to life** with full functional validation. I applied field QA processes to ensure performance after relocation, with technical logs and SOPs developed from live jobsite experience.
+The systems I handled weren’t just relocated they were **powered down, disassembled, debugged, and brought back to life** with full functional validation. I applied field QA processes to ensure performance after relocation, with technical logs and SOPs developed from live jobsite experience.
 
 ---
 
