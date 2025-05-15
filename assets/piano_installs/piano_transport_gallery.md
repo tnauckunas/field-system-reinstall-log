@@ -27,7 +27,12 @@ This was a rare antique player piano requiring careful inspection before disasse
 ![Upright piano staged mid-relocation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/3.%20Upright%20grand%20braced%20and%20upright%20%E2%80%93%20900%20lb%20lift.jpg?raw=true)
 
 This 900 lb upright grand was moved with a custom 2-person strategy I developed on-site. I rigged two high-mounted straps to act as anchor points. While I lifted the piano a step at a time using legs and back for force, my partner ascended and re-tensioned the straps at each interval using a ratchet system. This offloaded pressure and created resting phases to prevent slip or fatigue. It took roughly 1 hour to complete, maintaining full control over the center of gravity throughout.
+---
+## Grand Piano – Trailer Loading Strategy (900 lbs)  
 
+![Grand piano trailer loading with custom lift-strapping](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/3.%20grand_trailer_loading_strategy.jpg?raw=true)  
+
+This 900 lb grand piano was unstable on the ramp and at high risk of tilting backward — endangering my teammate and the piano. I developed a workaround using a top wrap-around strap for upward control, and anchored a yellow cross strap to hold the piano downward as we pushed. This allowed us to move the load up the ramp while preventing backward lean or rebound. A 2-man job completed with zero risk, using adaptive load physics and anchored strap sequencing.
 ---
 
 ## Reinstallation & QA
@@ -36,9 +41,7 @@ This 900 lb upright grand was moved with a custom 2-person strategy I developed 
 ![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4.%20grand_ready_for_assembly.jpg?raw=true)
 
 The grand piano has been delivered and set into its final location. At this stage, two outer legs are ready to be attached while the piano is carefully lowered. The third leg will be attached and finally the pedal lyre will be mounted last to complete structural assembly before testing.
-
 ---
-
 ### Upright Final Check  
 ![Upright piano stabilized, pre-tuning](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/5.%20grand_pre_tuning.jpg?raw=true)
 
