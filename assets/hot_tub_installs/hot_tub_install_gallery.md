@@ -10,7 +10,7 @@
 ## 🔧 Uninstallation Process
 
 ### 🧱 Before Removal  
-https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/assets/hot_tub_installs/1.panel_exposed_before_removal.jpg
+!https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/assets/hot_tub_installs/1.panel_exposed_before_removal.jpg
 
 We began by opening the access panel and logging all board and wiring connections. Cables were labeled and photographed before disconnection.
 
