@@ -27,6 +27,7 @@ Prior to power-up, confirmed all internal USB, power, and sensor cables were pre
 
 ### 🖨️ Printer Assembly  
 ![Photo printer mechanism inside booth](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/3.%20printer_mechanism_loaded.jpg?raw=true)
+
 Unboxed, mounted, and loaded the internal thermal printer. Verified that paper feeds correctly and ribbon was aligned. Test print executed later to validate full photo flow.
 
 ---
