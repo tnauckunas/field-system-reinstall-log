@@ -15,9 +15,9 @@ This was an electric grand piano inspected before disassembly and transport. I c
 ---
 
 ### Upright Piano Inspection  
-![Upright piano checked before transport](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/2.%20upright_ready_for_wrap.jpg?raw=true) 
+![Upright piano checked before transport](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/2.%20antique_upright_player_inspection.jpg?raw=true)
 
-Inspected damper mechanism, pedal rod clearance, and casing for loose panels or cracked veneer before move.
+This was a rare antique player piano requiring careful inspection before disassembly and relocation. I assessed the damper mechanism, pedal rod clearance, and casing integrity, taking extra care to check for loose panels or hairline veneer cracks. The internal paper roll housing and tracking system were noted as intact. Because of the piano’s age and uniqueness, all handling steps were pre-planned to avoid vibration damage or mechanical shift during transport.
 
 ---
 
