@@ -46,7 +46,7 @@ Completed a full internal test sequence. Photobooth captured four test shots, pr
 
 ---
 
-### 🍦 Ice Cream Vending Machine – Mall Deployment  
+### Ice Cream Vending Machine – Mall Deployment  
 ![Ice cream vending machine being secured for mall installation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/6.%20ice_cream_machine_mall_deploy.jpg?raw=true)  
 
 This was a separate job where I handled the relocation and setup of a commercial ice cream vending machine. Much like the photobooth, I secured the unit for vertical movement using load straps and stabilizers. This job required tight navigation through a freight access corridor and lift. I conducted a visual inspection on internal wiring, compressor vents, and power terminal before final placement. Although different from the photo unit, the same QA process was applied: verify cabling, power stability, and interface boot success.
