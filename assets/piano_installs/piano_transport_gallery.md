@@ -31,9 +31,9 @@ Piano was wrapped and on the piano board, braced, and positioned upright for sta
 
 ## Reinstallation & QA
 
-### Grand Piano Reinstalled  
-![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4_grand_staged_for_reinstall.jpg?raw=true)
-Pedals reconnected, leg base leveled, and hammer return tested on 7 random keys. Pedal felt was trimmed for clearance on sustain lift.
+### Pre-Assembly Setup
+![Grand piano post-move, being re-assembled](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/piano_installs/4.%20grand_ready_for_assembly.jpg?raw=true)
+The grand piano has been delivered and set into its final location. At this stage, two outer legs are ready to be attached while the piano is carefully lowered. The third leg will be attached and finally the pedal lyre will be mounted last to complete structural assembly before testing.
 
 ---
 
