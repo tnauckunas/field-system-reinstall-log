@@ -70,3 +70,7 @@ This repository serves as a structured, image-documented archive of repair, inst
 
 > All entries include real photos, real diagnostics, and real results.  
 > Built, logged, and tested in the field not theory, but personal execution.
+
+---
+
+_Last Updated: **May 2025**_
