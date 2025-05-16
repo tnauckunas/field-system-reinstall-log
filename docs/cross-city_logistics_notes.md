@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To summarize strategic notes, real-world lessons, and QA insights gathered while relocating delicate electronic systems across cities. These notes helped reduce system damage, transport stress, and reinstall delays — especially for smart systems sensitive to power, shock, and temperature.
 
 ---
 
-## 🚛 Common Route Scenarios
+## Common Route Scenarios
 
 | Origin → Destination | Challenge | Notes |
 |----------------------|-----------|-------|
@@ -23,7 +23,7 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 
 ---
 
-## ⚠️ Real-World Hazards Encountered
+## Real-World Hazards Encountered
 
 | Hazard | System Impact | Preventive Action |
 |--------|----------------|-------------------|
@@ -35,7 +35,7 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 
 ---
 
-## 🛠 Packing + Loading Protocol Notes
+## Packing + Loading Protocol Notes
 
 - Always strap **electronics on outer edge**, not centered  
 - Confirm **tie-down points away from cables** and circuit zones  
@@ -45,7 +45,7 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 
 ---
 
-## 💬 Communication Tactics
+## Communication Tactics
 
 - Call ahead: verify **access width, stairs, ramps, lift capacity**  
 - Log any delays on job sheet with reason + mitigation  
@@ -54,7 +54,7 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 
 ---
 
-## 🧠 QA-Tech Lessons Learned
+## QA-Tech Lessons Learned
 
 - Transport is **part of the QA lifecycle** — damage begins at the tie-down, not the reinstall  
 - Environmental sensitivity (temperature + humidity) must be tracked per system type  
@@ -62,4 +62,4 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
