@@ -59,3 +59,7 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 - Power-on diagnostic check (voltage, LED, or app status)
 - Perform per-device QA checklist (see specific `.md` logs)
 - Document status and sign-off
+
+---
+
+_Last Updated: **May 2025**_
