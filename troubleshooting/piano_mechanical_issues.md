@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To track and resolve physical and sensor-related failures found during or after piano relocation, especially in electric grand models with pedal input systems and acoustic grands with sensitive keybeds.
 
 ---
 
-## 🎹 Common Issues & Fixes
+## Common Issues & Fixes
 
 | Type | Symptom | Root Cause | Resolution |
 |------|---------|------------|------------|
@@ -24,7 +24,7 @@ To track and resolve physical and sensor-related failures found during or after 
 
 ---
 
-## 🛠 Diagnostic Flow
+## Diagnostic Flow
 
 1. Test every key and pedal using headphones + internal speaker  
 2. Visually inspect keybed and pedal contacts  
@@ -34,7 +34,7 @@ To track and resolve physical and sensor-related failures found during or after 
 
 ---
 
-## 🧪 Field Notes
+## Field Notes
 
 - Pedal rods often arrive slightly retracted after move — always check travel distance against physical bottom node  
 - Reversing a few keys laterally (physically pushing left/right) **often resolves sticking** caused by minor impact warping  
@@ -43,7 +43,7 @@ To track and resolve physical and sensor-related failures found during or after 
 
 ---
 
-## 🧠 QA Takeaways
+## QA Takeaways
 
 - Mechanical testing matters even in digital hardware  
 - Post-transport **residual pressure** can fake electrical failure  
@@ -51,4 +51,4 @@ To track and resolve physical and sensor-related failures found during or after 
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
