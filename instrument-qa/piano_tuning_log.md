@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To document field-based tuning and calibration of acoustic pianos post-transport. This includes pitch correction, hammer alignment checks, and post-move acoustic recalibration.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Piano tuning lever (high-torque)  
 - Temperament strip  
@@ -25,7 +25,7 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 
 ---
 
-## 🔧 Tuning Process Steps
+## Tuning Process Steps
 
 1. **Initial Inspection**
    - [x] Remove outer board + fallboard  
@@ -53,7 +53,7 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 
 ---
 
-## ⚠️ Common Post-Transport Tuning Issues
+## Common Post-Transport Tuning Issues
 
 | Issue | Cause | Resolution |
 |-------|-------|------------|
@@ -64,7 +64,7 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 
 ---
 
-## 🧠 Technician Notes
+## Technician Notes
 
 - Tuning immediately after transport = waste of time → **let piano rest first**  
 - Uprights are more stable than grands, but show more pedal rod issues  
@@ -73,4 +73,4 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
