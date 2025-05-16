@@ -58,4 +58,4 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 ### 4. **Functional Validation**
 - Power-on diagnostic check (voltage, LED, or app status)
 - Perform per-device QA checklist (see specific `.md` logs)
-- Document status and sign-o
+- Document status and sign-off
