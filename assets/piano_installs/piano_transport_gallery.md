@@ -59,7 +59,7 @@ Adjusted rod length and node clearance using rotation tool. Verified full depres
 
 ---
 
-## ✅ Outcomes
+## Outcomes
 
 - Upright + Grand models both successfully relocated  
 - No mechanical damage, skipped hammers, or pedal misalignment  
