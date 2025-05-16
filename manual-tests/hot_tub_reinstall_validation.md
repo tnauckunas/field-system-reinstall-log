@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To verify full functionality of relocated hot tub systems (including smart modules) after disassembly, transport, and reinstallation — ensuring safety, water-tight integrity, and system responsiveness.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Multimeter  
 - Voltage pen tester  
@@ -25,28 +25,28 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ---
 
-## 🔧 Reinstallation QA Checklist
+## Reinstallation QA Checklist
 
-### 🔌 1. **Power + Circuit Validation**
+### 1. **Power + Circuit Validation**
 - [x] Breaker reconnected with voltage check  
 - [x] No live exposure detected before power-up  
 - [x] Main control board received steady voltage (~220–240V UK)  
 - [x] No surge or short upon activation
 
-### 💡 2. **Control Panel + Smart System Test**
+### 2. **Control Panel + Smart System Test**
 - [x] UI buttons responsive  
 - [x] Display fully operational  
 - [x] Wi-Fi/Bluetooth module powered and scanned via app  
 - [x] Sensor array detected in settings menu
 
-### 💧 3. **Jet + Heater System**
+### 3. **Jet + Heater System**
 - [x] Water filled to above intake  
 - [x] Jet test (1 min low / 1 min high) = pass  
 - [x] No leaks observed under skirt or panel  
 - [x] Heater functional; temperature change validated  
 - [x] Safety shutoff test successful (long-press power or lid sensor)
 
-### 📱 4. **App Integration (Smart Models Only)**
+### 4. **App Integration (Smart Models Only)**
 - [x] App installed on test device  
 - [x] Unit paired + firmware confirmed  
 - [x] Temp and lighting controls responsive  
@@ -55,7 +55,7 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ---
 
-## 🧪 Regression Check
+## Regression Check
 
 - Visual match of wiring based on original uninstallation photo  
 - Ground line double-checked with continuity test  
@@ -65,7 +65,7 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ---
 
-## 🧱 Reinstallation Notes
+## Reinstallation Notes
 
 - Insulated pump housing had to be reseated (thermal foam insert collapsed in transport)  
 - Replaced one worn wire cap — added waterproof sealing gel  
@@ -74,7 +74,7 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ---
 
-## 🧠 QA Lessons Learned
+## QA Lessons Learned
 
 - Wiring diagrams save lives — without them, smart units become untraceable  
 - Don’t test immediately after filling — **let system settle 10+ mins** before heating  
@@ -83,5 +83,5 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
 
