@@ -1,83 +1,117 @@
-# Field System Reinstallation & Technical QA Portfolio  
-**Author:** Tomas Nauckunas  
-**Scope:** Smart hot tubs, electric pianos, vending machines, acoustic pianos  
-**Type:** Uninstallation → Transport → Reinstallation → Field QA + Tuning  
-**Period:** 2022–2025  
-**Status:** Active professional archive
+# 🛠️ Multi-Domain Field Repair Logs
+
+This repository serves as a structured, image-documented archive of repair, install, transport, testing, and QA logs. All work personally conducted, documented, and validated in real-world field conditions.
 
 ---
 
-## Overview
+## 🔧 Appliance Repair
 
-This repository documents my real-world work handling the disassembly, transport, reinstallation, and verification of high-value systems across multiple cities.
-
-The systems I handled weren’t just relocated they were **powered down, disassembled, debugged, and brought back to life** with full functional validation. I applied field QA processes to ensure performance after relocation, with technical logs and SOPs developed from live jobsite experience.
-
----
-
-## Systems Covered
-
-- Smart Hot Tubs (electrical control boards, sensors, mobile app integration)  
-- Electric Pianos (keybed calibration, ribbon cable alignment, audio output test)  
-- Vending Machines (cooling units, sensors, UI, payment systems)  
-- Acoustic Pianos (mechanical inspection, key & pedal alignment, full tuning)
+| File | Summary |
+|------|---------|
+| [`appliance_repair_gallery.md`](./appliance-repair/appliance_repair_gallery.md) | Gallery of field appliance repairs. |
+| [`commercial_gas_range_repair-log.md`](./appliance-repair/commercial_gas_range_repair-log.md) | Full teardown and fix of commercial gas stove. |
+| [`dryer_not_heating.md`](./appliance-repair/dryer_not_heating.md) | Diagnosed and resolved no-heat dryer issue. |
+| [`washer_drain_fix.md`](./appliance-repair/washer_drain_fix.md) | Fixed washer drain pump clog. |
 
 ---
 
-## Folder Structure
+## ⚡ Home Electrical
 
-| Folder | Contents |
-|--------|----------|
-| `/manual-tests/` | Functional setup + power-on validation logs |
-| `/troubleshooting/` | Field-level failure tracking and fixes |
-| `/docs/` | SOPs, transport protocols, and logistics handling |
-| `/instrument-qa/` | Piano tuning, action regulation, and condition verification |
-| `/assets/hot_tub_installs/` | Real jobsite photos – smart tub relocation |
-| `/assets/piano_installs/` | Real piano transport + wrapping documentation |
+| File | Summary |
+|------|---------|
+| [`outlet_install_gallery.md`](./home-electrical/outlet_install_gallery.md) | Combined gallery of outlet install and safety testing. |
+| [`power_outlet_install.md`](./home-electrical/power_outlet_install.md) | [Merged] into gallery above. |
+| [`safety_test_notes.md`](./home-electrical/safety_test_notes.md) | [Merged] into gallery above. |
 
 ---
 
-## Sample QA Logs
+## 🚚 Trailer Wiring
 
-- `hot_tub_uninstall_checklist.md`  
-- `hot_tub_reinstall_validation.md`  
-- `electric_piano_setup_log.md`  
-- `vending_machine_power_cycle_test.md`  
-- `piano_tuning_log.md`  
-- `piano_mechanical_issues.md`  
-- `transport_damage_log.md`  
-- `cable_replacement_issues.md`  
-- `reinstallation_SOP.md`
+| File | Summary |
+|------|---------|
+| [`trailer_junction_box_rewire.md`](./trailer-wiring/trailer_junction_box_rewire.md) | Rewired trailer junction box. |
+| [`trailer_light_fault.md`](./trailer-wiring/trailer_light_fault.md) | Resolved tail light grounding issue. |
+| [`trailer_wiring_gallery.md`](./trailer-wiring/trailer_wiring_gallery.md) | Project gallery of trailer wiring repairs. |
 
 ---
 
-## Visual Proof
+## 🚗 Vehicle Repair
 
-All installs shown in this repo (hot tubs, pianos) were performed personally.  
-See `/assets/` folders for live transport shots, including:
-
-- Wrapped upright and grand pianos in transit  
-- Onsite smart hot tub relocation photos  
-- QA handling environments before and after setup
-
----
-
-## Core Technician Processes
-
-- Labeling and mapping of electrical cables before removal  
-- Voltage confirmation and continuity testing pre/post reinstall  
-- Cold-weather mitigation and moisture protection during delivery  
-- Instrument tuning and action repair for relocated acoustic pianos  
-- Logging every system failure with fix path and team sign-off
+| File | Summary |
+|------|---------|
+| [`chevrolet_van_engine_repair.md`](./vehicle-repair/chevrolet_van_engine_repair.md) | Repaired failed cylinder and misfire. |
+| [`coworker_crash_repair_assist.md`](./vehicle-repair/coworker_crash_repair_assist.md) | Assisted coworker in crash body & radiator repair. |
+| [`honda_civic_hybrid_repair.md`](./vehicle-repair/honda_civic_hybrid_repair.md) | Hybrid battery restore & cooling fix. |
+| [`prius_coolant_test.md`](./vehicle-repair/prius_coolant_test.md) | Confirmed coolant block / HG failure. |
+| [`prius_head_gasket_log.md`](./vehicle-repair/prius_head_gasket_log.md) | Full head gasket disassembly & rebuild. |
+| [`vehicle_repair_gallery.md`](./vehicle-repair/vehicle_repair_gallery.md) | Central gallery index linking all auto repair logs. |
 
 ---
 
-## Field QA Philosophy
+## 🛁 Hot Tub Installs
 
-> "QA doesn’t start at install — it starts at disconnect. If you don’t track it from teardown to test, you’re not guaranteeing anything.”
-
-I’ve learned to treat every system as if I were rebuilding it for someone else to test. That mindset ensures cleaner installs, better results, and real technical confidence.
+| File | Summary |
+|------|---------|
+| [`hot_tub_install_gallery.md`](./assets/hot_tub_installs/hot_tub_install_gallery.md) | Full gallery from teardown to reinstallation and final test. |
+| 🔧 Images stored in: [`/assets/hot_tub_installs/images/`](./assets/hot_tub_installs/images/) |
 
 ---
 
-## Last Updated: May 2025
+## 🎹 Piano Installs
+
+| File | Summary |
+|------|---------|
+| [`piano_transport_gallery.md`](./assets/piano_installs/piano_transport_gallery.md) | Transport, setup, and electronic testing of electric pianos. |
+| 🔧 Images stored in: [`/assets/piano_installs/images/`](./assets/piano_installs/images/) |
+
+---
+
+## 🧃 Vending Machines
+
+| File | Summary |
+|------|---------|
+| [`vending_machine_gallery.md`](./assets/vending_machines/vending_machine_gallery.md) | Gallery of vending machine disassembly, reinstallation, and validation. |
+| 🔧 Images stored in: [`/assets/vending_machines/images/`](./assets/vending_machines/images/) |
+
+---
+
+## 🧪 Manual Tests & QA
+
+| File | Summary |
+|------|---------|
+| [`electric_piano_setup_log.md`](./manual-tests/electric_piano_setup_log.md) | Wiring and verification of electric piano. |
+| [`hot_tub_reinstall_validation.md`](./manual-tests/hot_tub_reinstall_validation.md) | Functional testing after hot tub reassembly. |
+| [`hot_tub_uninstall_checklist.md`](./manual-tests/hot_tub_uninstall_checklist.md) | Full uninstall procedure checklist. |
+| [`vending_machine_power_cycle_validation.md`](./manual-tests/vending_machine_power_cycle_validation.md) | Power cycling and operation validation. |
+
+---
+
+## 🎼 Instrument QA
+
+| File | Summary |
+|------|---------|
+| [`piano_tuning_log.md`](./instrument-qa/piano_tuning_log.md) | On-site tuning log and test records. |
+
+---
+
+## 🛠️ Troubleshooting Notes
+
+| File | Summary |
+|------|---------|
+| [`cable_replacement_issues.md`](./troubleshooting/cable_replacement_issues.md) | Diagnosed faulty electrical lines. |
+| [`piano_mechanical_issues.md`](./troubleshooting/piano_mechanical_issues.md) | Repaired stuck hammers and key jamming. |
+| [`transport_damage_log.md`](./troubleshooting/transport_damage_log.md) | Damage audit from transport and field setups. |
+
+---
+
+## 📄 Docs & SOPs
+
+| File | Summary |
+|------|---------|
+| [`cross-city_logistics_notes.md`](./docs/cross-city_logistics_notes.md) | Planning notes for multi-city relocations. |
+| [`reinstallation_SOP.md`](./docs/reinstallation_SOP.md) | Standard Operating Procedure for reinstall jobs. |
+
+---
+
+> ✅ All entries include real photos, real diagnostics, and real results.  
+> 🧰 Built, logged, and tested in the field — not theory, but personal execution.
