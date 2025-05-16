@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 To ensure every reinstallation is performed with maximum safety, technical accuracy, and post-transport system integrity — minimizing risk of component damage, client dissatisfaction, or power failure.
 
@@ -14,11 +14,11 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 
 ---
 
-## 🧭 Step-by-Step Reinstallation Workflow
+## Step-by-Step Reinstallation Workflow
 
 ---
 
-### 🧱 1. **Physical Reassembly**
+### 1. **Physical Reassembly**
 - Unwrap components carefully; log any visible damage
 - Confirm all hardware (brackets, panels, legs, mounts) is present
 - Begin reassembly on level ground or flat foundation
@@ -26,7 +26,7 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 
 ---
 
-### 🔌 2. **Electrical Preparation**
+### 2. **Electrical Preparation**
 - Verify voltage at target outlet with multimeter
 - Confirm ground line is present and stable
 - Inspect power cable for wear, pinching, or exposure
@@ -35,7 +35,7 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 
 ---
 
-### 🧠 3. **System-Specific Config**
+### 3. **System-Specific Config**
 
 #### Hot Tubs
 - Reconnect internal wires by label or photo reference
@@ -55,7 +55,7 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 
 ---
 
-### 🧪 4. **Functional Validation**
+### 4. **Functional Validation**
 - Power-on diagnostic check (voltage, LED, or app status)
 - Perform per-device QA checklist (see specific `.md` logs)
 - Document status and sign-o
