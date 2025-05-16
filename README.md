@@ -37,7 +37,7 @@ This repository serves as a structured, image-documented archive of repair, inst
 | [`electric_piano_setup_log.md`](./manual-tests/electric_piano_setup_log.md) | Wiring and verification of electric piano. |
 | [`hot_tub_reinstall_validation.md`](./manual-tests/hot_tub_reinstall_validation.md) | Functional testing after hot tub reassembly. |
 | [`hot_tub_uninstall_checklist.md`](./manual-tests/hot_tub_uninstall_checklist.md) | Full uninstall procedure checklist. |
-| [`vending_machine_power_cycle_validation.md`](./manual-tests/vending_machine_power_cycle_validation.md) | Power cycling and operation validation. |
+| [`vending_machine_power_cycle_validation.md`](./manual-tests/vending_machine_power_cycle_test.md) | Power cycling and operation validation. |
 
 ---
 
