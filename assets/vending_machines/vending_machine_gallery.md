@@ -48,7 +48,7 @@ Completed a full internal test sequence. Photobooth captured four test shots, pr
 ### 🏁 Final Staging – Nightclub Installation  
 ![Photo booth installed at nightclub, lights and UI active](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/6.%20photo_booth_final_staging.jpg?raw=true)
 
-Captured during the final staging phase. At this point, most internal wiring and system diagnostics had been completed. Screen prompts, printer modules, and lighting were fully verified. Photo shows the booth installed upright in a nightclub venue, secured in a space-constrained corner with visual access to the public. This system was fully transported, staged, wired, and validated singlehandedly.
+Captured during the final staging phase. At this point, all internal wiring, print verification, and lighting system diagnostics had been completed. Screen prompts and camera UI were functioning as expected. The booth was installed upright inside a nightclub venue, secured in a space-constrained area with public access. One assistant assisted in wheeling both units using a dolly during entry, as seen placing the top signage in this photo. All system wiring, QA testing, and staging validation were performed by me.
 
 ---
 
