@@ -5,14 +5,13 @@
 **Period:** 2024  
 **Photoset:** 5 critical installation & verification photos
 
+
 ---
 
-## Delivery & Setup
+### 📦 Residential Pickup – Photo Booth Transport  
+![Two boxed photo booths strapped inside U-Haul trailer](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/1.%20Photo_booth_haul.jpg?raw=true)
 
-### Arrival at Job Site  
-![Photo booth positioned at club install location](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/1.%20Photo_booth_positioned.jpg?raw=true)
-
-Transported the entire system from warehouse to a high-traffic nightclub in downtown San Diego. Booth was secured upright, all boxed peripherals and electrical components pre-packed internally.
+This photo booth system was picked up from a residential location. We loaded and transported the boxed units using a rented U-Haul trailer, with custom strap tensioning to maintain upright balance during city driving. Each booth weighed over 300 lbs and required load shifting mitigation to prevent roll or tilt. Destination was a high-traffic nightclub in downtown San Diego.
 
 ---
 
@@ -46,8 +45,15 @@ Completed a full internal test sequence. Photobooth captured four test shots, pr
 
 ---
 
+### 🏁 Final Staging – Nightclub Installation  
+![Photo booth installed at nightclub, lights and UI active](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/6.%20photo_booth_final_staging.jpg?raw=true)
+
+Captured during the final staging phase. At this point, most internal wiring and system diagnostics had been completed. Screen prompts, printer modules, and lighting were fully verified. Photo shows the booth installed upright in a nightclub venue, secured in a space-constrained corner with visual access to the public. This system was fully transported, staged, wired, and validated singlehandedly.
+
+---
+
 ### Ice Cream Vending Machine – Mall Deployment  
-![Ice cream vending machine being secured for mall installation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/6.%20ice_cream_machine_mall_deploy.jpg?raw=true)  
+![Ice cream vending machine being secured for mall installation](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/vending_machines/7.%20ice_cream_machine_mall_deploy.jpg?raw=true)
 
 This was a separate job where I handled the relocation and setup of a commercial ice cream vending machine. Much like the photobooth, I secured the unit for vertical movement using load straps and stabilizers. This job required tight navigation through a freight access corridor and lift. I conducted a visual inspection on internal wiring, compressor vents, and power terminal before final placement. Although different from the photo unit, the same QA process was applied: verify cabling, power stability, and interface boot success.
 
