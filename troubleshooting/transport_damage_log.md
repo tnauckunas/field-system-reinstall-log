@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To document equipment damaged during transport or disassembly/reassembly, and to identify failure points, contributing factors, and preventative actions across multiple categories of high-value systems.
 
 ---
 
-## 📦 Devices Tracked
+## Devices Tracked
 
 - Smart Hot Tubs (electrical panels, control boards, skirt panels)  
 - Electric Pianos (pedals, keybeds, ribbon cables, power systems)  
@@ -20,7 +20,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## ⚠️ Common Transport-Related Damage
+## ⚠Common Transport-Related Damage
 
 | Device Type | Issue | Root Cause | Resolution |
 |-------------|-------|------------|------------|
@@ -33,7 +33,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## 🛠 Damage Prevention Measures Implemented
+## Damage Prevention Measures Implemented
 
 - Used photo logs of internal cable routing pre-uninstall  
 - Switched from basic blankets to foam-backed tech covers  
@@ -44,7 +44,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## 🔁 Ongoing QA Recommendations
+## Ongoing QA Recommendations
 
 - Every reinstallation begins with:
   - Cable integrity check  
@@ -55,7 +55,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - 90% of post-transport failures could be traced to **avoidable cable stress or pressure points**  
 - Labeling, photos, and shielded wiring = future-proof reinstall success  
@@ -63,4 +63,4 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
