@@ -20,7 +20,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 ---
 
-## ⚠Common Transport-Related Damage
+## Common Transport-Related Damage
 
 | Device Type | Issue | Root Cause | Resolution |
 |-------------|-------|------------|------------|
