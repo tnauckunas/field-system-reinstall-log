@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To document real-world cable failures and replacement scenarios during reinstall jobs — especially those caused by transport stress, misrouting, wear, or unverified compatibility. Each log includes resolution and updated preventive steps.
 
 ---
 
-## ⚠️ Common Cable Failures & Fixes
+## Common Cable Failures & Fixes
 
 | System | Issue | Root Cause | Fix |
 |--------|-------|------------|-----|
@@ -36,7 +36,7 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 ---
 
-## 🔁 Prevention Protocol Added
+## Prevention Protocol Added
 
 - All cables now labeled with color + destination  
 - Pre-uninstall photo requirement added to SOP  
@@ -46,7 +46,7 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 ---
 
-## 🧠 Technician Insight
+## Technician Insight
 
 - A bad cable costs time, but a **mismatched cable kills systems**  
 - Heat, cold, bending, and pressure all create **invisible cable fatigue**  
@@ -55,4 +55,4 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
