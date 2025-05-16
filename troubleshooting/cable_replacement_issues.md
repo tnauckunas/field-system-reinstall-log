@@ -25,7 +25,7 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 ---
 
-## 🛠 Diagnostic Process
+## Diagnostic Process
 
 - Power check at endpoint (multimeter)  
 - Cable tracing from input to logic board  
