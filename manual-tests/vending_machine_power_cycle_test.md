@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To ensure that vending machines transported and reinstalled at new locations power on correctly, maintain cooling function (if applicable), and restore correct system configurations without failure or user-facing errors.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Multimeter  
 - Level tool  
@@ -24,27 +24,27 @@ To ensure that vending machines transported and reinstalled at new locations pow
 
 ---
 
-## 🔧 QA Checklist After Reinstall
+## QA Checklist After Reinstall
 
-### ⚡ 1. **Electrical Test**
+### 1. **Electrical Test**
 - [x] Machine grounded  
 - [x] Power input voltage confirmed  
 - [x] Fuse intact / surge protector present  
 - [x] System powers on cleanly (no flicker/reboot loop)
 
-### 🧊 2. **Cooling Unit Check (if beverage/combo unit)**
+### 2. **Cooling Unit Check (if beverage/combo unit)**
 - [x] Compressor audible  
 - [x] Temperature drop confirmed (IR gun at vent + tray)  
 - [x] Interior reaches safe temp within 30 minutes  
 - [x] Fan running (no stalls or burn smell)
 
-### 🔧 3. **Sensor + Mechanism Test**
+### 3. **Sensor + Mechanism Test**
 - [x] Item detection sensors trigger correctly  
 - [x] Product drop tray sensor confirms delivery  
 - [x] Motors run for all active rows  
 - [x] Item spiral alignment tested and reset if needed
 
-### 💳 4. **Payment + UI**
+### 4. **Payment + UI**
 - [x] Display shows welcome or idle screen  
 - [x] Coin slot accepts test insert  
 - [x] Card reader powers up (if available)  
@@ -52,7 +52,7 @@ To ensure that vending machines transported and reinstalled at new locations pow
 - [x] Pricing visible and matches programming  
 - [x] Admin access tested with code/key
 
-### 🔁 5. **Product Load & Dispense**
+### 5. **Product Load & Dispense**
 - [x] Sample item loaded and dispensed for test  
 - [x] Drop tray sensor registered item delivery  
 - [x] No jams or failed ejects  
@@ -60,7 +60,7 @@ To ensure that vending machines transported and reinstalled at new locations pow
 
 ---
 
-## ⚠️ Common Issues + Fixes
+## Common Issues + Fixes
 
 | Issue | Cause | Resolution |
 |-------|-------|------------|
@@ -72,7 +72,7 @@ To ensure that vending machines transported and reinstalled at new locations pow
 
 ---
 
-## 🧠 Technician Notes
+## Technician Notes
 
 - Always test **one item per row** to confirm motor alignment  
 - Never stack product unless motor test is passed — or risk jam  
@@ -82,4 +82,4 @@ To ensure that vending machines transported and reinstalled at new locations pow
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
