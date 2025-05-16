@@ -59,7 +59,7 @@ This was a separate job where I handled the relocation and setup of a commercial
 
 ---
 
-## ✅ Final Outcome
+## Final Outcome
 
 - Delivered on time  
 - Problem-solved a software failure without documentation  
