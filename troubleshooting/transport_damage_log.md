@@ -59,7 +59,7 @@ To document equipment damaged during transport or disassembly/reassembly, and to
 
 - 90% of post-transport failures could be traced to **avoidable cable stress or pressure points**  
 - Labeling, photos, and shielded wiring = future-proof reinstall success  
-- Standard moving crew processes often miss hidden technical fragility — QA needs to **own packing protocols**
+- Standard moving crew processes often miss hidden technical fragility. QA needs to **own packing protocols**
 
 ---
 
