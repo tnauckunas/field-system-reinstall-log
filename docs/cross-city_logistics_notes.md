@@ -8,7 +8,7 @@
 
 ## Objective
 
-To summarize strategic notes, real-world lessons, and QA insights gathered while relocating delicate electronic systems across cities. These notes helped reduce system damage, transport stress, and reinstall delays — especially for smart systems sensitive to power, shock, and temperature.
+To summarize strategic notes, real-world lessons, and QA insights gathered while relocating delicate electronic systems across cities. These notes helped reduce system damage, transport stress, and reinstall delays, especially for smart systems sensitive to power, shock, and temperature.
 
 
 ---
@@ -31,7 +31,7 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 - Confirm **tie-down points away from cables** and circuit zones  
 - Remove detachable UI/control boards before transport  
 - Power adapters stored in padded labeled bag per unit  
-- Label panels **visible on all sides** — especially hot tubs and vending backs
+- Label panels **visible on all sides** especially hot tubs and vending backs
 
 ---
 
@@ -40,15 +40,15 @@ To summarize strategic notes, real-world lessons, and QA insights gathered while
 - Call ahead: verify **access width, stairs, ramps, lift capacity**  
 - Log any delays on job sheet with reason + mitigation  
 - Notify destination client of **cool-down time** before first use  
-- Never assume 2-man lift is enough for smart systems — **weight ≠ complexity**
+- Never assume 2-man lift is enough for smart systems **weight ≠ complexity**
 
 ---
 
 ## QA-Tech Lessons Learned
 
-- Transport is **part of the QA lifecycle** — damage begins at the tie-down, not the reinstall  
+- Transport is **part of the QA lifecycle** damage begins at the tie-down, not the reinstall  
 - Environmental sensitivity (temperature + humidity) must be tracked per system type  
-- Success = good labeling, good packing, and good client communication — not just clean delivery
+- Success = good labeling, good packing, and good client communication not just clean delivery
 
 ---
 
