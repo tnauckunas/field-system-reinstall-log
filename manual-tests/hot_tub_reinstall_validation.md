@@ -9,7 +9,7 @@
 
 ## Objective
 
-To verify full functionality of relocated hot tub systems (including smart modules) after disassembly, transport, and reinstallation — ensuring safety, water-tight integrity, and system responsiveness.
+To verify full functionality of relocated hot tub systems (including smart modules) after disassembly, transport, and reinstallation and ensuring safety, water-tight integrity, and system responsiveness.
 
 ---
 
@@ -28,30 +28,30 @@ To verify full functionality of relocated hot tub systems (including smart modul
 ## Reinstallation QA Checklist
 
 ### 1. **Power + Circuit Validation**
-- [x] Breaker reconnected with voltage check  
-- [x] No live exposure detected before power-up  
-- [x] Main control board received steady voltage (~220–240V UK)  
-- [x] No surge or short upon activation
+- [ ] Breaker reconnected with voltage check  
+- [ ] No live exposure detected before power-up  
+- [ ] Main control board received steady voltage (~220–240V UK)  
+- [ ] No surge or short upon activation
 
 ### 2. **Control Panel + Smart System Test**
-- [x] UI buttons responsive  
-- [x] Display fully operational  
-- [x] Wi-Fi/Bluetooth module powered and scanned via app  
-- [x] Sensor array detected in settings menu
+- [ ] UI buttons responsive  
+- [ ] Display fully operational  
+- [ ] Wi-Fi/Bluetooth module powered and scanned via app  
+- [ ] Sensor array detected in settings menu
 
 ### 3. **Jet + Heater System**
-- [x] Water filled to above intake  
-- [x] Jet test (1 min low / 1 min high) = pass  
-- [x] No leaks observed under skirt or panel  
-- [x] Heater functional; temperature change validated  
-- [x] Safety shutoff test successful (long-press power or lid sensor)
+- [ ] Water filled to above intake  
+- [ ] Jet test (1 min low / 1 min high) = pass  
+- [ ] No leaks observed under skirt or panel  
+- [ ] Heater functional; temperature change validated  
+- [ ] Safety shutoff test successful (long-press power or lid sensor)
 
 ### 4. **App Integration (Smart Models Only)**
-- [x] App installed on test device  
-- [x] Unit paired + firmware confirmed  
-- [x] Temp and lighting controls responsive  
-- [x] Schedule and remote start verified  
-- [x] Sync time under 15 sec from app to unit
+- [ ] App installed on test device  
+- [ ] Unit paired + firmware confirmed  
+- [ ] Temp and lighting controls responsive  
+- [ ] Schedule and remote start verified  
+- [ ] Sync time under 15 sec from app to unit
 
 ---
 
@@ -68,7 +68,7 @@ To verify full functionality of relocated hot tub systems (including smart modul
 ## Reinstallation Notes
 
 - Insulated pump housing had to be reseated (thermal foam insert collapsed in transport)  
-- Replaced one worn wire cap — added waterproof sealing gel  
+- Replaced one worn wire cap and added waterproof sealing gel  
 - Board ribbon cable required reseating after failing initial power-on  
 - Customer confirmed full operation at handover
 
@@ -76,12 +76,11 @@ To verify full functionality of relocated hot tub systems (including smart modul
 
 ## QA Lessons Learned
 
-- Wiring diagrams save lives — without them, smart units become untraceable  
-- Don’t test immediately after filling — **let system settle 10+ mins** before heating  
+- Wiring diagrams save lives without them, smart units become untraceable  
+- Don’t test immediately after filling **let system settle 10+ mins** before heating  
 - Labeling + pre-photography = guaranteed reassembly integrity  
 - Smart units need **dedicated module test** before declaring install complete
 
 ---
 
 ## Last Updated: May 2025
-
