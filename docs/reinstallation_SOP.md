@@ -8,7 +8,7 @@
 
 ## Purpose
 
-To ensure every reinstallation is performed with maximum safety, technical accuracy, and post-transport system integrity — minimizing risk of component damage, client dissatisfaction, or power failure.
+To ensure every reinstallation is performed with maximum safety, technical accuracy, and post-transport system integrity minimizing risk of component damage, client dissatisfaction, or power failure.
 
 This SOP was built through repeated execution, troubleshooting, and post-move feedback logs.
 
