@@ -3,7 +3,7 @@
 **Location:** Downtown San Diego, California  
 **Scope:** Full unit transport, internal wiring, manufacturer-guided configuration, and end-user QA  
 **Period:** 2024  
-**Photoset:** 5 critical installation & verification photos
+**Photoset:** Critical installation & verification photos
 
 
 ---
