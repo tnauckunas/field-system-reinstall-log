@@ -44,7 +44,7 @@ Board reconnected using pre-labeled wires, terminal screws checked, and board bo
 ### Power-On & LED Test  
 ![Green LED confirms board activity](https://github.com/tnauckunas/field-system-reinstall-log/blob/main/assets/hot_tub_installs/images/5.%20Resetting%20&%20Powering%20On.jpg?raw=true)
 
-Successful startup — LED confirmed clean voltage input. No surge, flicker, or fault codes.
+Successful startup and LED confirmed clean voltage input. No surge, flicker, or fault codes.
 
 ---
 
