@@ -27,36 +27,36 @@ To ensure that vending machines transported and reinstalled at new locations pow
 ## QA Checklist After Reinstall
 
 ### 1. **Electrical Test**
-- [x] Machine grounded  
-- [x] Power input voltage confirmed  
-- [x] Fuse intact / surge protector present  
-- [x] System powers on cleanly (no flicker/reboot loop)
+- [ ] Machine grounded  
+- [ ] Power input voltage confirmed  
+- [ ] Fuse intact / surge protector present  
+- [ ] System powers on cleanly (no flicker/reboot loop)
 
 ### 2. **Cooling Unit Check (if beverage/combo unit)**
-- [x] Compressor audible  
-- [x] Temperature drop confirmed (IR gun at vent + tray)  
-- [x] Interior reaches safe temp within 30 minutes  
-- [x] Fan running (no stalls or burn smell)
+- [ ] Compressor audible  
+- [ ] Temperature drop confirmed (IR gun at vent + tray)  
+- [ ] Interior reaches safe temp within 30 minutes  
+- [ ] Fan running (no stalls or burn smell)
 
 ### 3. **Sensor + Mechanism Test**
-- [x] Item detection sensors trigger correctly  
-- [x] Product drop tray sensor confirms delivery  
-- [x] Motors run for all active rows  
-- [x] Item spiral alignment tested and reset if needed
+- [ ] Item detection sensors trigger correctly  
+- [ ] Product drop tray sensor confirms delivery  
+- [ ] Motors run for all active rows  
+- [ ] Item spiral alignment tested and reset if needed
 
 ### 4. **Payment + UI**
-- [x] Display shows welcome or idle screen  
-- [x] Coin slot accepts test insert  
-- [x] Card reader powers up (if available)  
-- [x] Touchpad/buttons responsive  
-- [x] Pricing visible and matches programming  
-- [x] Admin access tested with code/key
+- [ ] Display shows welcome or idle screen  
+- [ ] Coin slot accepts test insert  
+- [ ] Card reader powers up (if available)  
+- [ ] Touchpad/buttons responsive  
+- [ ] Pricing visible and matches programming  
+- [ ] Admin access tested with code/key
 
 ### 5. **Product Load & Dispense**
-- [x] Sample item loaded and dispensed for test  
-- [x] Drop tray sensor registered item delivery  
-- [x] No jams or failed ejects  
-- [x] Tray lights functional (where available)
+- [ ] Sample item loaded and dispensed for test  
+- [ ] Drop tray sensor registered item delivery  
+- [ ] No jams or failed ejects  
+- [ ] Tray lights functional (where available)
 
 ---
 
@@ -75,9 +75,9 @@ To ensure that vending machines transported and reinstalled at new locations pow
 ## Technician Notes
 
 - Always test **one item per row** to confirm motor alignment  
-- Never stack product unless motor test is passed — or risk jam  
+- Never stack product unless motor test is passed or risk jam  
 - Some machines require **10+ minute reset time** before cooling triggers  
-- UI failures are often wiring or dust-related after move — don’t assume display fault  
+- UI failures are often wiring or dust-related after move, don’t assume display fault  
 - Leveling is critical: uneven placement = failed item detection or jams
 
 ---
