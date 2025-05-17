@@ -36,7 +36,7 @@ To track and resolve physical and sensor-related failures found during or after 
 
 ## Field Notes
 
-- Pedal rods often arrive slightly retracted after move — always check travel distance against physical bottom node  
+- Pedal rods often arrive slightly retracted after move and always check travel distance against physical bottom node  
 - Reversing a few keys laterally (physically pushing left/right) **often resolves sticking** caused by minor impact warping  
 - Failing to test with both speakers + headphones = missed diagnosis  
 - Weight shift during van braking can cause **base plate torque** = pedal error
