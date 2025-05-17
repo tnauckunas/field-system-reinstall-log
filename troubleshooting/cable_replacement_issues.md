@@ -8,7 +8,7 @@
 
 ## Objective
 
-To document real-world cable failures and replacement scenarios during reinstall jobs — especially those caused by transport stress, misrouting, wear, or unverified compatibility. Each log includes resolution and updated preventive steps.
+To document real-world cable failures and replacement scenarios during reinstall jobs especially those caused by transport stress, misrouting, wear, or unverified compatibility. Each log includes resolution and updated preventive steps.
 
 ---
 
@@ -40,7 +40,7 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 - All cables now labeled with color + destination  
 - Pre-uninstall photo requirement added to SOP  
-- Ribbon cables not twisted — always flat or looped gently  
+- Ribbon cables not twisted, always flat or looped gently  
 - Power bricks stored in hard casing with wrap guard  
 - Added checklist: “Wiring verified before power-up”
 
@@ -50,7 +50,7 @@ To document real-world cable failures and replacement scenarios during reinstall
 
 - A bad cable costs time, but a **mismatched cable kills systems**  
 - Heat, cold, bending, and pressure all create **invisible cable fatigue**  
-- Most failures are **not the board — they're between the board and the source**  
+- Most failures are **not the board but they're between the board and the source**  
 - Treat every cable as **mission-critical** until proven stable
 
 ---
