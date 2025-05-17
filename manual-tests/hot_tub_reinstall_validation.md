@@ -2,7 +2,7 @@
 **Technician:** Tomas Nauckunas  
 **Scope:** Standard and Smart Hot Tub Systems  
 **Process:** Post-transport reassembly, wiring reconnection, systems testing, client sign-off  
-**Locations:** Cross-city moves (UK + US)  
+**Locations:** Cross-city moves (US)  
 **Period:** 2022–2025
 
 ---
