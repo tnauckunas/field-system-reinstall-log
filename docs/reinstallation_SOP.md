@@ -45,7 +45,7 @@ This SOP was built through repeated execution, troubleshooting, and post-move fe
 #### Electric Pianos
 - Keybed connection first  
 - Ribbon cable second  
-- Power last — test keys before attaching pedals
+- Power last, test keys before attaching pedals
 
 #### Vending Machines
 - Plug in screen/control panel first  
