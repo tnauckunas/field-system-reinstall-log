@@ -27,39 +27,39 @@ To safely and systematically uninstall hot tubs (standard + smart systems) while
 ## Step-by-Step Test-Backed Checklist
 
 ### 1. **Power Shutdown Verification**
-- [x] Circuit breaker located + disabled  
-- [x] Voltage tested at power intake terminal = 0V  
-- [x] Main board switch disconnected
+- [ ] Circuit breaker located + disabled  
+- [ ] Voltage tested at power intake terminal = 0V  
+- [ ] Main board switch disconnected
 
 ### 2. **Water System Drain**
-- [x] All jets opened  
-- [x] Gravity + pump drainage completed  
-- [x] Remaining water vacuumed from base  
-- [x] Moisture wiped from internal cable areas
+- [ ] All jets opened  
+- [ ] Gravity + pump drainage completed  
+- [ ] Remaining water vacuumed from base  
+- [ ] Moisture wiped from internal cable areas
 
 ### 3. **Cable Labeling & Disconnection**
-- [x] Photographs taken of terminal block & wiring  
-- [x] Each wire labeled (color + port) before removal  
-- [x] Low-voltage and heater terminals logged separately  
-- [x] Control panel connector pulled gently w/o bending pins
+- [ ] Photographs taken of terminal block & wiring  
+- [ ] Each wire labeled (color + port) before removal  
+- [ ] Low-voltage and heater terminals logged separately  
+- [ ] Control panel connector pulled gently w/o bending pins
 
 ### 4. **Smart System Module Isolation**
-- [x] Bluetooth / Wi-Fi controller detached  
-- [x] Temp + pressure sensors unplugged  
-- [x] Fuse bank checked for burns  
-- [x] Module wrapped and boxed separately
+- [ ] Bluetooth / Wi-Fi controller detached  
+- [ ] Temp + pressure sensors unplugged  
+- [ ] Fuse bank checked for burns  
+- [ ] Module wrapped and boxed separately
 
 ### 5. **Structural Breakdown**
-- [x] Access panel removed  
-- [x] Tub skirt unscrewed (if detachable)  
-- [x] Jets secured with foam padding  
-- [x] Tub braced for upright lifting
+- [ ] Access panel removed  
+- [ ] Tub skirt unscrewed (if detachable)  
+- [ ] Jets secured with foam padding  
+- [ ] Tub braced for upright lifting
 
 ### 6. **Transport Prep**
-- [x] All electronics wrapped and boxed  
-- [x] Cables coiled with tags outward  
-- [x] Hot tub plastic-wrapped + padded  
-- [x] Transport crew briefed on tilt zones and center weight
+- [ ] All electronics wrapped and boxed  
+- [ ] Cables coiled with tags outward  
+- [ ] Hot tub plastic-wrapped + padded  
+- [ ] Transport crew briefed on tilt zones and center weight
 
 ---
 
