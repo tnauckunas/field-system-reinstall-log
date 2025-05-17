@@ -28,28 +28,28 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 ## Tuning Process Steps
 
 1. **Initial Inspection**
-   - [x] Remove outer board + fallboard  
-   - [x] Confirm no broken strings  
-   - [x] Check for hammer slant or loosened felts  
-   - [x] Verify pedals activate damper lift properly
+   - [ ] Remove outer board + fallboard  
+   - [ ] Confirm no broken strings  
+   - [ ] Check for hammer slant or loosened felts  
+   - [ ] Verify pedals activate damper lift properly
 
 2. **Pre-Tune Stabilization**
-   - [x] Wait 2+ hours post-move before tuning  
-   - [x] Wipe down action mechanism  
-   - [x] Verify humidity control system (if installed)
+   - [ ] Wait 15 mins post-move before tuning  
+   - [ ] Wipe down action mechanism  
+   - [ ] Verify humidity control system (if installed)
 
 3. **Tuning Procedure**
-   - [x] Temperament tuning in center octave  
-   - [x] Octave alignment above + below  
-   - [x] Unison correction (mute and blend string pairs/triples)  
-   - [x] Verified pitch using tuning fork at A4 (440Hz)  
-   - [x] Adjusted slack pins and tight coils when needed
+   - [ ] Temperament tuning in center octave  
+   - [ ] Octave alignment above + below  
+   - [ ] Unison correction (mute and blend string pairs/triples)  
+   - [ ] Verified pitch using tuning fork at A4 (440Hz)  
+   - [ ] Adjusted slack pins and tight coils when needed
 
 4. **Post-Tuning Check**
-   - [x] Played chromatic runs for pitch drift  
-   - [x] Verified sustain pedal response  
-   - [x] Noted keys with mechanical buzz or weak return  
-   - [x] Ran silent pedal test (partial depression test)
+   - [ ] Played chromatic runs for pitch drift  
+   - [ ] Verified sustain pedal response  
+   - [ ] Noted keys with mechanical buzz or weak return  
+   - [ ] Ran silent pedal test (partial depression test)
 
 ---
 
