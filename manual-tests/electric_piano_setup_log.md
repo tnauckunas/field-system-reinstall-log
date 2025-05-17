@@ -27,36 +27,36 @@ To ensure successful relocation and reinstallation of electric pianos, with full
 ## Setup & Validation Checklist
 
 ### 1. **Physical Reassembly**
-- [x] All casing panels reconnected and secured  
-- [x] Keyboard locked in position, no lateral shift  
-- [x] Pedal board connected and checked for continuity  
-- [x] Music stand and external controls reattached
+- [ ] All casing panels reconnected and secured  
+- [ ] Keyboard locked in position, no lateral shift  
+- [ ] Pedal board connected and checked for continuity  
+- [ ] Music stand and external controls reattached
 
 ### 2. **Power Check**
-- [x] Voltage confirmed at adapter terminal  
-- [x] Fuse intact (visual + continuity test)  
-- [x] Device powered on without delay  
-- [x] No hum, static, or audible power issue
+- [ ] Voltage confirmed at adapter terminal  
+- [ ] Fuse intact (visual + continuity test)  
+- [ ] Device powered on without delay  
+- [ ] No hum, static, or audible power issue
 
 ### 3. **Keybed Test**
-- [x] Played all 88 keys (or full set)  
-- [x] No stuck, muted, or uneven response keys  
-- [x] Velocity sensitivity confirmed (soft press vs full press)  
-- [x] Octave shift and function keys responsive  
-- [x] Synth/voice swap buttons tested (if applicable)
+- [ ] Played all 88 keys (or full set)  
+- [ ] No stuck, muted, or uneven response keys  
+- [ ] Velocity sensitivity confirmed (soft press vs full press)  
+- [ ] Octave shift and function keys responsive  
+- [ ] Synth/voice swap buttons tested (if applicable)
 
 ### 4. **Audio Output**
-- [x] Internal speaker test = clean playback  
-- [x] Headphone jack tested with standard cable  
-- [x] Aux Out tested (if model supports)  
-- [x] Volume knob or slider responsive  
-- [x] No crackle, buzz, or dropout
+- [ ] Internal speaker test = clean playback  
+- [ ] Headphone jack tested with standard cable  
+- [ ] Aux Out tested (if model supports)  
+- [ ] Volume knob or slider responsive  
+- [ ] No crackle, buzz, or dropout
 
 ### 5. **Pedal Test**
-- [x] Sustain pedal press = active hold  
-- [x] Half-damper detection (if supported)  
-- [x] Expression or soft pedal checked  
-- [x] Secure connection (screw-in / TRS jack)
+- [ ] Sustain pedal press = active hold  
+- [ ] Half-damper detection (if supported)  
+- [ ] Expression or soft pedal checked  
+- [ ] Secure connection (screw-in / TRS jack)
 
 ---
 
