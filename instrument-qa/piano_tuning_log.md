@@ -69,7 +69,7 @@ To document field-based tuning and calibration of acoustic pianos post-transport
 - Tuning immediately after transport = waste of time → **let piano rest first**  
 - Uprights are more stable than grands, but show more pedal rod issues  
 - Clients often can’t hear drift but **I always verify full keyboard**  
-- Digital tuners are for **reference**, not decision-making — always confirm by ear
+- Digital tuners are for **reference**, not decision-making and always confirm by ear
 
 ---
 
