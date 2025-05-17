@@ -47,7 +47,7 @@ To track and resolve physical and sensor-related failures found during or after 
 
 - Mechanical testing matters even in digital hardware  
 - Post-transport **residual pressure** can fake electrical failure  
-- “No sound” is often **not an electrical issue — it’s geometry**
+- “No sound” is often **not an electrical issue but it’s geometry**
 
 ---
 
