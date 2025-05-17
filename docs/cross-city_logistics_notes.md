@@ -10,16 +10,6 @@
 
 To summarize strategic notes, real-world lessons, and QA insights gathered while relocating delicate electronic systems across cities. These notes helped reduce system damage, transport stress, and reinstall delays — especially for smart systems sensitive to power, shock, and temperature.
 
----
-
-## Common Route Scenarios
-
-| Origin → Destination | Challenge | Notes |
-|----------------------|-----------|-------|
-| London → Manchester  | Long haul, traffic + cold | Avoid overnight vibration on smart boards |
-| Brighton → Birmingham| Multi-stop | Middle load risk → load sequencing critical |
-| Suburb → Inner City  | Narrow access | Disassemble early, avoid late-night installs |
-| Coastal Area → London| Salt air / moisture | Double wrap + anti-static bags for boards |
 
 ---
 
